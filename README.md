@@ -1,38 +1,37 @@
-# Iot-Projects
 <!DOCTYPE html>
 <html>
 <head>
 </head>
 <body>
 
-<h2>Responsive Image Gallery</h2>
-<h4>Resize the browser window to see the effect.</h4>
+<h2>Iot-Projects</h2>
+<h4>Internet of thing all type of projects</h4>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_5terre.jpg">
-      <img src="https://github.com/edugyangroup/Iot-Projects/blob/main/WhatsApp%20Image%202021-05-07%20at%2012.47.13%20AM%20(2).jpeg" alt="Cinque Terre" width="400" height="600">
+    <a target="_blank" href="https://github.com/edugyangroup/Iot-Projects/blob/main/WhatsApp%20Image%202021-05-07%20at%2012.47.13%20AM%20(2).jpeg">
+      <img src="https://github.com/edugyangroup/Iot-Projects/blob/main/WhatsApp%20Image%202021-05-07%20at%2012.47.13%20AM%20(2).jpeg" alt="Cinque Terre" width="450" height="700">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Helping student on school event</div>
   </div>
 </div>
 
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_forest.jpg">
-      <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+    <a target="_blank" href="https://github.com/edugyangroup/Iot-Projects/blob/main/WhatsApp%20Image%202021-05-07%20at%2012.47.13%20AM%20(4).jpeg">
+      <img src="https://github.com/edugyangroup/Iot-Projects/blob/main/WhatsApp%20Image%202021-05-07%20at%2012.47.13%20AM%20(4).jpeg" alt="Forest" width="450" height="700">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Simple Led Glow using Battery</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_lights.jpg">
-      <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+    <a target="_blank" href="https://github.com/edugyangroup/Iot-Projects/blob/main/WhatsApp%20Image%202021-05-07%20at%2012.47.13%20AM%20(5).jpeg">
+      <img src="https://github.com/edugyangroup/Iot-Projects/blob/main/WhatsApp%20Image%202021-05-07%20at%2012.47.13%20AM%20(5).jpeg" alt="Northern Lights" width="450" height="700">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Radar using ultrasonic Sensor</div>
   </div>
 </div>
 
