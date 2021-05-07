@@ -11,7 +11,7 @@
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_5terre.jpg">
-      <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+      <img src="https://github.com/edugyangroup/Iot-Projects/blob/main/WhatsApp%20Image%202021-05-07%20at%2012.47.13%20AM%20(2).jpeg" alt="Cinque Terre" width="400" height="600">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
